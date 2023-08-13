@@ -1,4 +1,6 @@
-# E-Guru: Project-1
+# E-Guru: Project-[1]
+
+# Link -[Project](https://e-guru-responsive-pawanyadav963.netlify.app)
 
 A website project which has motive to provide E-education to the students world-wide
 
